@@ -1,0 +1,63 @@
+C:\Users\Student\Desktop\test Geo\obj\Debug\net7.0\test Geo.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\test Geo\obj\Debug\net7.0\test Geo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\test Geo\obj\Debug\net7.0\test Geo.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\test Geo\obj\Debug\net7.0\test Geo.AssemblyInfo.cs
+C:\Users\Student\Desktop\test Geo\obj\Debug\net7.0\test Geo.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\test Geo\bin\Debug\net7.0\test Geo.exe
+C:\Users\Student\Desktop\test Geo\bin\Debug\net7.0\test Geo.deps.json
+C:\Users\Student\Desktop\test Geo\bin\Debug\net7.0\test Geo.runtimeconfig.json
+C:\Users\Student\Desktop\test Geo\bin\Debug\net7.0\test Geo.dll
+C:\Users\Student\Desktop\test Geo\bin\Debug\net7.0\test Geo.pdb
+C:\Users\Student\Desktop\test Geo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\test Geo\obj\Debug\net7.0\test Geo.csproj.CopyComplete
+C:\Users\Student\Desktop\test Geo\obj\Debug\net7.0\test Geo.dll
+C:\Users\Student\Desktop\test Geo\obj\Debug\net7.0\refint\test Geo.dll
+C:\Users\Student\Desktop\test Geo\obj\Debug\net7.0\test Geo.pdb
+C:\Users\Student\Desktop\test Geo\obj\Debug\net7.0\test Geo.genruntimeconfig.cache
+C:\Users\Student\Desktop\test Geo\obj\Debug\net7.0\ref\test Geo.dll
+C:\Users\Student\Desktop\test Geo\bin\Debug\net7.0\GeoJSON.dll
+C:\Users\Student\Desktop\test Geo\bin\Debug\net7.0\GeoJSON.pdb
+C:\Users\Student\Desktop\test Geo\bin\Debug\net7.0\secondDot.json
+C:\Users\Student\Desktop\test Geo\bin\Debug\net7.0\testdata.json
+E:\29.05\test Geo\bin\Debug\net7.0\secondDot.json
+E:\29.05\test Geo\bin\Debug\net7.0\testdata.json
+E:\29.05\test Geo\bin\Debug\net7.0\test Geo.exe
+E:\29.05\test Geo\bin\Debug\net7.0\test Geo.deps.json
+E:\29.05\test Geo\bin\Debug\net7.0\test Geo.runtimeconfig.json
+E:\29.05\test Geo\bin\Debug\net7.0\test Geo.dll
+E:\29.05\test Geo\bin\Debug\net7.0\test Geo.pdb
+E:\29.05\test Geo\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\29.05\test Geo\bin\Debug\net7.0\GeoJSON.dll
+E:\29.05\test Geo\bin\Debug\net7.0\GeoJSON.pdb
+E:\29.05\test Geo\obj\Debug\net7.0\test Geo.csproj.AssemblyReference.cache
+E:\29.05\test Geo\obj\Debug\net7.0\test Geo.GeneratedMSBuildEditorConfig.editorconfig
+E:\29.05\test Geo\obj\Debug\net7.0\test Geo.AssemblyInfoInputs.cache
+E:\29.05\test Geo\obj\Debug\net7.0\test Geo.AssemblyInfo.cs
+E:\29.05\test Geo\obj\Debug\net7.0\test Geo.csproj.CoreCompileInputs.cache
+E:\29.05\test Geo\obj\Debug\net7.0\test Geo.csproj.CopyComplete
+E:\29.05\test Geo\obj\Debug\net7.0\test Geo.dll
+E:\29.05\test Geo\obj\Debug\net7.0\refint\test Geo.dll
+E:\29.05\test Geo\obj\Debug\net7.0\test Geo.pdb
+E:\29.05\test Geo\obj\Debug\net7.0\test Geo.genruntimeconfig.cache
+E:\29.05\test Geo\obj\Debug\net7.0\ref\test Geo.dll
+F:\29.05\test Geo\bin\Debug\net7.0\secondDot.json
+F:\29.05\test Geo\bin\Debug\net7.0\testdata.json
+F:\29.05\test Geo\bin\Debug\net7.0\test Geo.exe
+F:\29.05\test Geo\bin\Debug\net7.0\test Geo.deps.json
+F:\29.05\test Geo\bin\Debug\net7.0\test Geo.runtimeconfig.json
+F:\29.05\test Geo\bin\Debug\net7.0\test Geo.dll
+F:\29.05\test Geo\bin\Debug\net7.0\test Geo.pdb
+F:\29.05\test Geo\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\29.05\test Geo\bin\Debug\net7.0\GeoJSON.dll
+F:\29.05\test Geo\bin\Debug\net7.0\GeoJSON.pdb
+F:\29.05\test Geo\obj\Debug\net7.0\test Geo.csproj.AssemblyReference.cache
+F:\29.05\test Geo\obj\Debug\net7.0\test Geo.GeneratedMSBuildEditorConfig.editorconfig
+F:\29.05\test Geo\obj\Debug\net7.0\test Geo.AssemblyInfoInputs.cache
+F:\29.05\test Geo\obj\Debug\net7.0\test Geo.AssemblyInfo.cs
+F:\29.05\test Geo\obj\Debug\net7.0\test Geo.csproj.CoreCompileInputs.cache
+F:\29.05\test Geo\obj\Debug\net7.0\test Geo.csproj.CopyComplete
+F:\29.05\test Geo\obj\Debug\net7.0\test Geo.dll
+F:\29.05\test Geo\obj\Debug\net7.0\refint\test Geo.dll
+F:\29.05\test Geo\obj\Debug\net7.0\test Geo.pdb
+F:\29.05\test Geo\obj\Debug\net7.0\test Geo.genruntimeconfig.cache
+F:\29.05\test Geo\obj\Debug\net7.0\ref\test Geo.dll
